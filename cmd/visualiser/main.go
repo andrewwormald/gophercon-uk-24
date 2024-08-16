@@ -2,8 +2,10 @@ package main
 
 import (
 	"example"
-	"github.com/luno/workflow"
+
 	"k8s.io/utils/clock"
+
+	"github.com/luno/workflow"
 )
 
 func main() {
